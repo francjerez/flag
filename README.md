@@ -14,7 +14,7 @@ Flag requires the HID API to talk with your Luxafor device, something you can ea
 $ sudo -H pip3 install hidapi
 ```
 
-Now you are ready to deploy the three components of this repository (the user agent, the Python script and the logout hook):
+To deploy the three components of this repository (the user agent, the Python script and the logout hook):
 
 ```
 $ sudo -H ./install.sh
