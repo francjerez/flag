@@ -1,6 +1,6 @@
 # Flag
 
-Flag is a very small Python 3.x module managed by `launchd`, tested on —and designed for— macOS Big Sur.
+Flag is a very small Python 3.x module managed by `launchd`, tested on (and designed for) macOS Big Sur.
 
 The tool is intended to help you control a single USB connected [Luxafor Flag](https://luxafor.com/flag-usb-busylight-availability-indicator/) device from the *Do Not Disturb* (DND) switch you can find both in the *Control Center* and, when enabled from the *System Preferences*, in the *Menu Bar*. 
 
