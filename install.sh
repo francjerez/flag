@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Get paths
 unm=$(logname)
 uid=$(id -u $unm)
 src=$(dirname "$0")
