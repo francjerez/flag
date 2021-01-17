@@ -1,5 +1,5 @@
 # Flag
-![flags](https://user-images.githubusercontent.com/3150023/104853573-10b47280-5902-11eb-844a-9a53353f8561.png)
+![flags](https://user-images.githubusercontent.com/3150023/104853775-56256f80-5903-11eb-9f8d-5507905a28af.png)
 
 Flag is a very small Python 3.x module managed by `launchd`, tested on (and designed for) macOS Big Sur.
 
@@ -7,11 +7,11 @@ Flag is a very small Python 3.x module managed by `launchd`, tested on (and desi
 
 The tool is intended to help you control a single USB connected [Luxafor Flag](https://luxafor.com/flag-usb-busylight-availability-indicator/) device from the *Do Not Disturb* (DND) switch you can find both in the *Control Center* and, when enabled from the *System Preferences*, in the *Menu Bar*: 
 
-![menubar](https://user-images.githubusercontent.com/3150023/104853609-4c4f3c80-5902-11eb-920f-312f9b6aa392.png)
+![menubar](https://user-images.githubusercontent.com/3150023/104853832-b74d4300-5903-11eb-85fe-6d4400feaa31.png)
 
 For further efficiency, you may want to create a keyboard shorcut, like this one:
 
-![keyboard](https://user-images.githubusercontent.com/3150023/104853614-583afe80-5902-11eb-9586-ed2fa43335c9.png)
+![keyboard](https://user-images.githubusercontent.com/3150023/104853840-bf0ce780-5903-11eb-85b1-0a085d15cc57.png)
 
 ## Installation
 
