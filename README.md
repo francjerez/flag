@@ -9,7 +9,7 @@ Flag is intended to help you control a single USB connected [Luxafor Flag](https
 
 ![menubar](https://user-images.githubusercontent.com/3150023/104853832-b74d4300-5903-11eb-85fe-6d4400feaa31.png)
 
-For further efficiency, you may want to create a keyboard shorcut, like this one:
+For further efficiency, you may want to create a keyboard shorcut; like this one:
 
 ![keyboard](https://user-images.githubusercontent.com/3150023/104854213-c503c800-5905-11eb-84e2-ab2fc81c8287.png)
 
