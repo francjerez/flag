@@ -11,7 +11,7 @@ The tool is intended to help you control a single USB connected [Luxafor Flag](h
 
 For further efficiency, you may want to create a keyboard shorcut, like this one:
 
-![keyboard](https://user-images.githubusercontent.com/3150023/104853840-bf0ce780-5903-11eb-85b1-0a085d15cc57.png)
+![keyboard](https://user-images.githubusercontent.com/3150023/104854213-c503c800-5905-11eb-84e2-ab2fc81c8287.png)
 
 ## Installation
 
