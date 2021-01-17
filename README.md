@@ -4,7 +4,7 @@ Flag is a very small Python 3.x module managed by `launchd`, tested on (and desi
 
 The tool is intended to help you control a single USB connected [Luxafor Flag](https://luxafor.com/flag-usb-busylight-availability-indicator/) device from the *Do Not Disturb* (DND) switch you can find both in the *Control Center* and, when enabled from the *System Preferences*, in the *Menu Bar*. 
 
-For further efficiency, you may want to [create a keyboard shorcut](https://www.google.com/search?q=do+not+disturb+keyboard+shortcut+big+sur)    create a keyboard shortcut like this one: <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>cmd</kbd> + <kbd>space</kbd>
+For further efficiency, you may want to [create a keyboard shorcut](https://www.google.com/search?q=do+not+disturb+keyboard+shortcut+big+sur) like this one: <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>cmd</kbd> + <kbd>space</kbd>
 
 ## Installation
 
