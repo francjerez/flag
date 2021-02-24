@@ -31,7 +31,7 @@ chmod +x "$usr/.logouthook"
 echo "-> $usr/.logouthook"
 
 # Launch agent 
-launchctl bootstrap gui/"${uid}" "$plf" 2>/dev/null 
+launchctl bootstrap gui/"${uid}" "$plf"
 
 # Footer
 echo "All done!"
