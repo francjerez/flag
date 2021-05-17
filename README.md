@@ -11,7 +11,7 @@ Flag is intended to help you control a single USB connected [Luxafor Flag](https
 
 For further efficiency, you may want to create a keyboard shorcut; like this one:
 
-![keyboard](https://user-images.githubusercontent.com/3150023/104854213-c503c800-5905-11eb-84e2-ab2fc81c8287.png)
+![keyboard](https://user-images.githubusercontent.com/3150023/118508701-b6041980-b72f-11eb-8df8-ea80adc6b89f.png)
 
 ## Installation
 
