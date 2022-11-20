@@ -24,7 +24,7 @@ $ sudo -H pip3 install hidapi
 To deploy the three components of this repository (the user agent, the Python script and the logout hook):
 
 ```
-$ sudo -H ./install.sh
+$ sudo -H sh ./install.sh
 ```
 
 The installer automatically loads the `LaunchAgent` for you, so everything should be working by now.
